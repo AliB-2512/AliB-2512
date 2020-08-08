@@ -16,7 +16,7 @@
 >>Ali.currentLocation
 "London, United Kingdom"
 >>Ali.mailInfo
-["alibachar@hotmail.com", "1708720@brunel.ac.uk"]
+["dev.aliB@outlook.com", "1708720@brunel.ac.uk"]
 >>Ali.interests
 ["Aviation", "Formula 1", "3D Printing"]
 >>Ali.ability
