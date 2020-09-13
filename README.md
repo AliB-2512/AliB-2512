@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ali B! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
 
-[![Twitter: AliBPt1](https://img.shields.io/twitter/follow/AliBPt1?style=social)](https://twitter.com/AliBPt1)
+[![Twitter: AliHBachar](https://img.shields.io/twitter/follow/AliHBachar?style=social)](https://twitter.com/AliHBachar)
 [![Linkedin: Ali Bachar](https://img.shields.io/badge/-AliBachar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bachar)](https://www.linkedin.com/in/ali-bachar)
 [![GitHub Ali B](https://img.shields.io/github/followers/AliB-2512?label=follow&style=social)](https://github.com/AliB-2512)
 
